@@ -1,5 +1,6 @@
 # CODETECH-Task-2\
 Clustering Algorithms:
+NAME : PANJA MOHITH RAMANA CHATHURYA COMPANY : CODETECH IT SOLUTIONS ID : CT08DS9124 DOMAIN : DATA SCIENCE DURATION: OCT 10TH TO NOV 10TH 2024
 
 K-Means: We specify 3 clusters (as we know the Iris dataset has 3 species).
 Hierarchical Clustering: Also set to form 3 clusters.
@@ -65,3 +66,5 @@ This project serves as a foundational exercise in unsupervised learning, illustr
 
 screen shot:
 ![image](https://github.com/user-attachments/assets/90cc2994-11e2-4628-bc05-2b173f40ae56)
+
+
