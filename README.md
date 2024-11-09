@@ -1,6 +1,8 @@
-# CODETECH-Task-2\
-Clustering Algorithms:
+
 NAME : PANJA MOHITH RAMANA CHATHURYA COMPANY : CODETECH IT SOLUTIONS ID : CT08DS9124 DOMAIN : DATA SCIENCE DURATION: OCT 10TH TO NOV 10TH 2024
+
+# CODETECH-Task-2\
+Clustering Algorithms
 
 K-Means: We specify 3 clusters (as we know the Iris dataset has 3 species).
 Hierarchical Clustering: Also set to form 3 clusters.
